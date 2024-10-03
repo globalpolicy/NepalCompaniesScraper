@@ -131,7 +131,7 @@ I tested a few methods to maximize the number of simultaneous requests and the s
     <td>9143</td>
     <td>11848</td>
     <td>0</td>
-    <td>SemaphoreSlim(100_000). Repeat sample. Faster network</td>
+    <td>SemaphoreSlim(100_000). (Repeat sample). Faster network</td>
   </tr>
   <tr>
     <td>Task.WhenAll()</td>
